@@ -109,8 +109,10 @@ Each notebook builds on the previous one, gradually introducing data processing,
 
 ## 🌍 Ethical and Sustainability Note
 
-The following are fragments from the article “The self-driving trolley problem: how will future AI systems make the most ethical choices for all of us?” published on The Conversation, November 23, 2021
-The self-driving trolley problem: how will future AI systems make the most ethical choices for all of us?
+**The following are fragments from the article “The self-driving trolley problem: how will future AI systems make the most ethical choices for all of us?” published on The Conversation, November 23, 2021** 
+
+**##The self-driving trolley problem: how will future AI systems make the most ethical choices for all of us?**
+
 Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms generally still get help from people applying checks and making the final call. What would happen if AI systems had to make independent decisions, and ones that could mean life or death for humans?
 
 Unlike humans, robots lack a moral conscience and follow the “ethics” programmed into them. At the same time, human morality is highly variable. The “right” thing to do in any situation will depend on who you ask.
