@@ -11,11 +11,12 @@ This work was completed as part of the **WorldQuant University Data Science Work
 
 ```
 Notebooks/
-├── 1-traffic-data-as-images-and-video.ipynb
-├── 2-object-detection-with-yolov8.ipynb
-├── 3-custom-objects-with-yolov8.ipynb
-├── 4-dataset-augmentation.ipynb
-└── 5-assignment.ipynb
+├── 321-traffic-data-as-images-and-video.ipynb
+├── 322-traffic-data-as-images-and-video.ipynb
+├── 33-object-detection-with-yolov8.ipynb
+├── 34-custom-objects-with-yolov8.ipynb
+├── 35-dataset-augmentation.ipynb
+└── 7-assignment.ipynb
 ```
 
 Each notebook builds on the previous one, gradually introducing data processing, model training, and performance optimization.
