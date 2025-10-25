@@ -7,7 +7,7 @@ This work was completed as part of the **WorldQuant University Data Science Work
 
 
 ![Traffic Demo](applications/demo.gif)
-<img src="applications/Screenshot 2025-10-25 144244.png" alt="Logo" width="200"/>
+<img src="applications/Screenshot 2025-10-25 144403.png" alt="Logo" width="200"/>
 
 
 ---
