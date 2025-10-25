@@ -7,6 +7,9 @@ This work was completed as part of the **WorldQuant University Data Science Work
 
 
 ![Traffic Demo](applications/demo.gif)
+![Traffic Demo](applications/demo.gif)
+![Traffic Demo](applications/demo.gif)
+![Traffic Demo](applications/demo.gif)
 
 ---
 
