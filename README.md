@@ -8,10 +8,16 @@ This work was completed as part of the **WorldQuant University Data Science Work
 
 ![Traffic Demo](applications/demo.gif)
 <p>
-  <img src="applications/Screenshot 2025-10-25 144403.png" width="500" />
+  <img src="applications/Screenshot 2025-10-25 144403.png" width="700" />
 </p>
 <p>
-  <img src="images/image2.png" width="300" />
+  <img src="applications/Screenshot 2025-10-25 144256.png" width="700" />
+</p>
+<p>
+  <img src="applications/Screenshot 2025-10-25 144256.png" width="700" />
+</p>
+<p>
+  <img src="applications/Screenshot 2025-10-25 144256.png" width="700" />
 </p>
 
 
