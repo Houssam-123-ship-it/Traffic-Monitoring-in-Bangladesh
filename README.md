@@ -5,7 +5,8 @@ The goal is to detect and label objects such as vehicles and pedestrians in real
 
 This work was completed as part of the **WorldQuant University Data Science Work Simulation**, building upon skills in image analysis, deep learning, and model optimization.
 
-![logo](frames Box  and annotation video/download.mp4)
+[Watch video](frames Box and annotation video/download.mp4)
+
 ---
 
 ## 📁 Repository Structure
